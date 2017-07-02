@@ -107,7 +107,7 @@ brig.on('ready', (brig) => {
 
 Then your customized QML type can be used in QML enviromnet:
 
-__Application__
+__Application.js__
 
 ```qml
 import QtQuick 2.3
